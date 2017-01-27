@@ -1,4 +1,3 @@
-
 /**
  *	Adapted from BitInputStream written by Owen Astrachan for previous versions
  *	of the Huffman assignment. Allows user to read a specified number of bits
